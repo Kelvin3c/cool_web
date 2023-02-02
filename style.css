@@ -30,6 +30,8 @@ section{
 
 }
 
+/* for gallery */
+
 .gallery-container {
     display: flex;
     justify-content: center;
@@ -76,7 +78,7 @@ section{
     scrollbar-width: none;
   }
   
-  /* for gallery */
+  
   
   .slides > div {
     scroll-snap-align: start;
